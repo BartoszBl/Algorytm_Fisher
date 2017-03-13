@@ -1,0 +1,26 @@
+C:\Users\Bartosz\Desktop\szt\fisher\Wczytywanie ZPliku\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe.config
+C:\Users\Bartosz\Desktop\szt\fisher\Wczytywanie ZPliku\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe
+C:\Users\Bartosz\Desktop\szt\fisher\Wczytywanie ZPliku\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.pdb
+C:\Users\Bartosz\Desktop\szt\fisher\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Form1.resources
+C:\Users\Bartosz\Desktop\szt\fisher\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Properties.Resources.resources
+C:\Users\Bartosz\Desktop\szt\fisher\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Fisher.csproj.GenerateResource.Cache
+C:\Users\Bartosz\Desktop\szt\fisher\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.exe
+C:\Users\Bartosz\Desktop\szt\fisher\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.pdb
+C:\Users\Bartosz\Desktop\Fisher\Fisher\fisher\Wczytywanie ZPliku\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe.config
+C:\Users\Bartosz\Desktop\Fisher\Fisher\fisher\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.exe
+C:\Users\Bartosz\Desktop\Fisher\Fisher\fisher\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.pdb
+C:\Users\Bartosz\Desktop\Fisher\Fisher\fisher\Wczytywanie ZPliku\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe
+C:\Users\Bartosz\Desktop\Fisher\Fisher\fisher\Wczytywanie ZPliku\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.pdb
+C:\Users\Bartosz\Desktop\Fisher\Fisher\fisher\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Form1.resources
+C:\Users\Bartosz\Desktop\Fisher\Fisher\fisher\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Properties.Resources.resources
+C:\Users\Bartosz\Desktop\Fisher\Fisher\fisher\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Fisher.csproj.GenerateResource.Cache
+C:\Users\Bartosz\Desktop\Fisher\Fisher\fisher\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Fisher.csprojResolveAssemblyReference.cache
+C:\Users\Bartosz\Desktop\sztuczna\fisher\fisher\fisher\Wczytywanie ZPliku\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe.config
+C:\Users\Bartosz\Desktop\sztuczna\fisher\fisher\fisher\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.exe
+C:\Users\Bartosz\Desktop\sztuczna\fisher\fisher\fisher\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.pdb
+C:\Users\Bartosz\Desktop\sztuczna\fisher\fisher\fisher\Wczytywanie ZPliku\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe
+C:\Users\Bartosz\Desktop\sztuczna\fisher\fisher\fisher\Wczytywanie ZPliku\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.pdb
+C:\Users\Bartosz\Desktop\sztuczna\fisher\fisher\fisher\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Fisher.csprojResolveAssemblyReference.cache
+C:\Users\Bartosz\Desktop\sztuczna\fisher\fisher\fisher\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Form1.resources
+C:\Users\Bartosz\Desktop\sztuczna\fisher\fisher\fisher\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Properties.Resources.resources
+C:\Users\Bartosz\Desktop\sztuczna\fisher\fisher\fisher\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Fisher.csproj.GenerateResource.Cache
